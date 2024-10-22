@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "524747083818",
+    "project_id": "hamaguree-cde80",
+    "storage_bucket": "hamaguree-cde80.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524747083818:android:65c30f9165ffdd8d177353",
+        "android_client_info": {
+          "package_name": "com.hamaguree.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8IxOABmzViPHO2m_zuMoY_K9idULehiY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
